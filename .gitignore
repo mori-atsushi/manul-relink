@@ -1,0 +1,11 @@
+build-libraries/work/
+build-libraries/out/
+build-libraries/toolchain/
+build-libraries/local/
+relink/*.apk
+relink/*.apks
+relink/*.jks
+relink/*.keystore
+relink/*.jar
+*.aab
+
