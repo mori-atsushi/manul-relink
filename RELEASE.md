@@ -4,6 +4,12 @@ One section per release, newest first. Each release's source
 archives and `SHA256SUMS` are attached to its GitHub Release, not
 committed here — see that release's assets.
 
+## android-v0.1.22-26
+
+- App version: 0.1.22
+- App bundle asset: `app-release.aab`
+- App bundle SHA-256: `165d5c957345df5187cceb070a1d437cfaf8d1ef3082b426995c6eee22eb33be`
+
 ## android-v0.1.21-25
 
 - App version: 0.1.21
